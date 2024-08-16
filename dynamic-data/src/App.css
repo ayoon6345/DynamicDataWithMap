@@ -1,0 +1,12 @@
+#inp{
+    display:flex;
+    margin: 2%;
+    flex-direction: column;
+    max-width: fit-content;
+}
+#inp input{
+    margin: 1%;
+}
+#inp button{
+    margin-top: 7%;
+}
